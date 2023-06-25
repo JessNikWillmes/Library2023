@@ -1,0 +1,116 @@
+Body {
+Background-color: Gray;
+font-size: 15px;
+Font-family: Helvetica;
+color: Navy;
+}
+
+H1 {
+text-align: center;
+Border-color: Maroon;
+Border-width: 10px;
+Border-style: solid;
+Height: 40px;
+Width: 1410px;
+Background-image: url(cloud.jpeg);
+font-size: 30px;
+padding: 10px;
+}
+
+H2 {
+text-align: center;
+font-size: 25px;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 125px;
+Width: 1410px;
+Background-image: url(cloud.jpeg);
+padding: 10px;
+}
+
+p.para1 {
+font-size: 15px;
+}
+
+p.para2 {
+text-align: center;
+Background-color: White;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 40px;
+Width: 450px;
+Background-image: url(cloud.jpeg);
+font-size: 20px;
+color: navy;
+padding: 10px
+}
+p.para3 {
+text-align: center;
+Background-color: White;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 40px;
+Width: 450px;
+Background-image: url(cloud.jpeg);
+font-size: 20px;
+color: navy;
+padding: 10px
+}
+p.para4 {
+text-align: center;
+Background-color: White;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 40px;
+Width: 450px;
+Background-image: url(cloud.jpeg);
+font-size: 20px;
+color: navy;
+padding: 10px
+}
+
+ol {
+Background-color: White;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 880px;
+Width: 430px;
+Background-image: url(cloud.jpeg);
+font-size: 20px;
+color: Navy;
+padding: 20px 20px 20px 60px;
+
+}
+
+p.para5 {
+text-align: center;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 900px;
+Width: 450px;
+Background-image: url(cloud.jpeg);
+font-size: 20px;
+color: navy;
+padding: 10px
+}
+
+p.para6 {
+text-align: center;
+Background-color: White;
+Border-color: Maroon;
+Border-width: 2px;
+Border-style: solid;
+Height: 900px;
+Width: 450px;
+Background-image: url(cloud.jpeg);
+font-size: 30px;
+color: navy;
+padding: 10px
+}
+
